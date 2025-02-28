@@ -7,7 +7,7 @@ public class Calc {
     }
     public static void main(String[] args) {
         Calc calculator = new Calc();
-        System.out.println("Addition: " + calculator.add(5, 3)); 
-        System.out.println("Subtraction: " + calculator.subtract(5, 3));
+        System.out.println("Addition:"+ calculator.add(5,4)); 
+        System.out.println("Subtraction:"+ calculator.subtract(5,4));
     }
 }
